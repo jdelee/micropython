@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/micropython/micropython.png?branch=master)](https://travis-ci.org/micropython/micropython) [![Coverage Status](https://coveralls.io/repos/micropython/micropython/badge.png?branch=master)](https://coveralls.io/r/micropython/micropython?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjdelee%2Fmicropython.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjdelee%2Fmicropython?ref=badge_shield)
 
 The MicroPython project
 =======================
@@ -172,3 +173,7 @@ productive, please be sure to follow the
 and the [Code Conventions](https://github.com/micropython/micropython/blob/master/CODECONVENTIONS.md).
 Note that MicroPython is licenced under the MIT license, and all contributions
 should follow this license.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjdelee%2Fmicropython.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjdelee%2Fmicropython?ref=badge_large)
